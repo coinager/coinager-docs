@@ -54,7 +54,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/logo.svg',
+    image: 'img/favicon.ico',
     navbar: {
       title: 'Coinager',
       logo: {
