@@ -29,3 +29,9 @@ The app is running with 2 different views.
    The family view is a read-only view with data from all family users.
    This view has filters to to filter out data for any selected user.
    This view can add or invite new users to use the application.
+
+### Switching Views
+
+To switch from one view to another,
+click on the profile menu of upper right side and select on `Individual View` or `Family View`.
+The button label is the opposite of the view you are actively on.
