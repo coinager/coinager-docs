@@ -33,8 +33,8 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Track finances with ${siteConfig.title}`}
+      description="The family finance tracking application">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
