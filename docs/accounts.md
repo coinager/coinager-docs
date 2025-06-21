@@ -19,3 +19,11 @@ There are six types of accounts to which any account can be added.
 - Loan Account
 - Trading Account
 
+## Adding a new account
+
+When adding a new account, you need to add a few things
+
+1. Name: Name can be anything like the bank name to identify the account
+2. Account Type: The [account type](#account-types) for the given account
+3. Initial Date: The date the initial balance is recorded
+4. Initial Balance: The balance recorded at midnight (00:00:00) of initial date.
